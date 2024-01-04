@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\bin\Debug\net8.0\ImproveEmailSubs.exe
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\bin\Debug\net8.0\ImproveEmailSubs.deps.json
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\bin\Debug\net8.0\ImproveEmailSubs.runtimeconfig.json
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\bin\Debug\net8.0\ImproveEmailSubs.dll
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\bin\Debug\net8.0\ImproveEmailSubs.pdb
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.AssemblyInfo.cs
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.sourcelink.json
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.dll
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\refint\ImproveEmailSubs.dll
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.pdb
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ImproveEmailSubs.genruntimeconfig.cache
+C:\Users\pc\Desktop\VSCode Projects\Cemailimprover\ImproveEmailSubs\obj\Debug\net8.0\ref\ImproveEmailSubs.dll
