@@ -2,7 +2,7 @@
 int daysUntilExpiration = random.Next(12);
 int discountPercentage = 0;
 
-// Your code goes below this line here
+// Your code goes below this line here.
 
 
 if (daysUntilExpiration <= 11)
